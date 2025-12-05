@@ -159,13 +159,6 @@ flutter run
 
 This project is open source and available under the MIT License.
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-## 👨‍💻 Author
-
-Built with ❤️ using Flutter
 
 ---
 
